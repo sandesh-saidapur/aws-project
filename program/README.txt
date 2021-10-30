@@ -10,7 +10,7 @@ IT CONTAINS THE INFORMATION ABOUT US.
 
 
 CONTRIBUTING
-GIT: https://github.com/Pratheek07/PROJECTS.git
+GIT: 
 
 
 
@@ -20,4 +20,4 @@ http://awsprg1.s3-website.ap-south-1.amazonaws.com
 
 
 CONTACT
-pratheekbhava@gmail.com
+sandesh.saidapur@gmail.com
